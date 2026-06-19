@@ -30,8 +30,4 @@ Kevactyl supports all of the Pterodactyl Eggs!
 * Discord ATLBot, and most other Node.js/Python discord bots
 * [and many more...](https://pterodactyleggs.com)
 
-## License
-
-Pterodactyl® Copyright © 2015 - 2022 Dane Everitt and contributors.
-
-Code released under the [MIT License](./LICENSE.md).
+Copyright sqidgeon.uk® 2024-2026
